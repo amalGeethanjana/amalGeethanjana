@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm  Amal Geethanjana Kulasooriya
 
-<!--
-**amalGeethanjana/amalGeethanjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Software Engineering Undergraduate student in Birmingham city univercity (soon to be Full-Stack Software Engineer). 
+🔹 Passionate about Web Development, Java & OOP Concepts  
+🔹 Open Source Enthusiast.  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML, CSS, JavaScript  
+- PHP, MySQL  
+- Bootstrap, TailwindCSS  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: mpamalgeethanjana@gmail.com
+- Whatsapp: 0761312256
+  
+ 
