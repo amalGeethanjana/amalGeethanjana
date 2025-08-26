@@ -12,6 +12,6 @@
 
 ## 📫 Contact Me
 - Email: mpamalgeethanjana@gmail.com
-- Whatsapp: 0761312256
+- Whatsapp: +94761312256
   
  
